@@ -9,11 +9,11 @@
 Requisitos técnicos
 --------------------------------------------------------------------------------------------------------
 
-	- Versión JDK: OpenJdk (v17)
-        - IDE: Eclipse 2023-06
-        - Gestor de proyecto y arquetipo: Maven (Proyecto java de consola)
-        - Plugin de Maven para consumir web services: cxf-codegen-plugin
-	- Dependencia: jaxws-rt v4.0.1
+- Versión JDK: OpenJdk (v17)
+- IDE: Eclipse 2023-06
+- Gestor de proyecto y arquetipo: Maven (Proyecto java de consola)
+- Plugin de Maven para consumir web services: cxf-codegen-plugin
+- Dependencia: jaxws-rt v4.0.1
        
 -------------------------------------------------------------------------------------------------------
 Descripción
